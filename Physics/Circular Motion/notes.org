@@ -1,0 +1,14 @@
+#+TITLE: Circular Motion
+#+AUTHOR: Jacob Wachala
+#+STARTUP: latexpreview
+
+
+[[./circular_motion.svg.png]]
+
+
+
+
+$$T = I \times \omega $$
+* Concepts 
+** 
+* Examples
